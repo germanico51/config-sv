@@ -12,4 +12,4 @@ API Gateway con Spring Cloud Gateway
 
 Config Server centralizado
 
-📁 Repositorio: https://github.com/germanico51/config-sv
+
