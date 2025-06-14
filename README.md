@@ -1,5 +1,5 @@
 Config Server - Spring Cloud
-Este proyecto es un ejercicio práctico basado en los patrones de diseño aplicados a microservicios utilizando Spring Cloud. Implementa un Config Server centralizado que permite la externalización y administración de la configuración de microservicios.
+Este proyecto es un ejercicio práctico de TodoCodeAcademy basado en los patrones de diseño aplicados a microservicios utilizando Spring Cloud. Implementa un Config Server centralizado que permite la externalización y administración de la configuración de microservicios.
 
 Contenidos aplicados
 Service Registry y Discovery con Eureka Server
